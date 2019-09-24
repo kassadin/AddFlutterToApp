@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Add Flutter to App'),
+      home: MyHomePage(title: 'Add Flutter to App on Mac Test'),
     );
   }
 }
